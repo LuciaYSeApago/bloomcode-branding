@@ -2,7 +2,7 @@
 
 <h1>🌸 BloomCode Color Palette 🌸</h1>
 
-<p><em>A soft, cozy and modern color palette designed to give every BloomCode project a consistent visual identity.</em></p>
+<p><em>🌸 A soft, cozy and modern color palette designed to give every BloomCode project a consistent visual identity. 🌸</em></p>
 
 </div>
 
