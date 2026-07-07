@@ -1,0 +1,22 @@
+🌸 BloomCode Readme Template 🌸
+
+🌸 Structure to follow when creating a project. 🌸
+
+✿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✿
+
+               {{PROJECT_NAME}}
+
+          {{CATEGORY}}
+
+✿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✿
+
+{{SHORT_DESCRIPTION}}
+
+────────────────────────────────────────
+
+{{CONTENT}}
+
+────────────────────────────────────────
+
+❀ Select an option:
+>
