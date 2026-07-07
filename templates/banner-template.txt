@@ -1,0 +1,13 @@
+🌸 BloomCode Readme Template 🌸
+
+🌸 Structure to follow when creating a project. 🌸
+
+✿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✿
+
+                  ⌞📎⌝ {{PROJECT_NAME}}
+
+          {{CATEGORY}} • Modern C++ • BloomCode
+
+            {{SHORT_DESCRIPTION}}
+
+✿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✿
